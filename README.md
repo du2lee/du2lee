@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I'm duhui👋
+
+My Notion URL : https://url.kr/l2xzq4
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
