@@ -1,5 +1,6 @@
+### Hi there I'm duhui👋
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Hi there I'm duhui👋&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=🍺Mccreate&height=200&fontSize=100)
 <div align="center">
 
 <h3>🖐Thank you for visiting my repository!🙏</h3>
@@ -27,8 +28,9 @@
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=du2lee&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mccreate&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=du2lee&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--
 **du2lee/du2lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
