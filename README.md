@@ -20,8 +20,6 @@
 <br>
 👌I'm beginner at...<br>
 <img src="https://img.shields.io/badge/django-00ADD8?style=flat-square&logo=django&logoColor=white"/> 
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/>
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=du2lee&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
