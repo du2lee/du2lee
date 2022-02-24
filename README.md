@@ -17,9 +17,10 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/OracleDB-orange?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/django-00ADD8?style=flat-square&logo=django&logoColor=white"/> 
 <br>
 👌I'm beginner at...<br>
-<img src="https://img.shields.io/badge/django-00ADD8?style=flat-square&logo=django&logoColor=white"/> 
+
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=du2lee&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
