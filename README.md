@@ -6,7 +6,7 @@
 <h3>🖐Thank you for visiting my repository!🙏</h3>
 <h4> My Notion URL : https://url.kr/l2xzq4 </h4>
 
-  I'm App📱 & WebApp💻 Developer.
+  I'm App📱 & Back-End 🖥 Developer.
   
 👍I'm intermediate at...<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
