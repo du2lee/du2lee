@@ -27,7 +27,7 @@
     <center>
   <div>
     
-###  Have used
+### 👨🏻‍💻 Have used
 <br>
   <div>
     <center>
@@ -44,7 +44,7 @@
     <center>
   <div>
     
-### Tool
+### ⚙️ Tool
 <br>
   <div>
     <center>
