@@ -1,12 +1,13 @@
 ### 
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Hello👋&height=200&fontSize=100)
 <div align="center">
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Hello👋&height=200&fontSize=100)
+
 
 <h3>🖐Thank you for visiting my repository!🙏</h3>
 <h4> My Notion URL : https://url.kr/l2xzq4 </h4>
 
   I'm App📱 & Back-End 🖥 Developer.
+</div>
   
 Have used<br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
@@ -25,6 +26,7 @@ Studying<br>
 <br>
 use well<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<br>
 Tool<br>
 
 <br>
@@ -33,7 +35,6 @@ Tool<br>
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=du2lee&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 <!--
 **du2lee/du2lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
