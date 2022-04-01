@@ -9,9 +9,9 @@
   I'm App📱 & Back-End 🖥 Developer.
 </div>
 
-## 🔧 Tech Stack
+## 📜 Tech Stack
 
-### Studying
+### 📝 Studying
 <br>
   <div>
     <center>
@@ -19,7 +19,7 @@
     <center>
   <div>
 
-### use well
+### 👍 use well
 <br>
   <div>
     <center>
@@ -27,7 +27,7 @@
     <center>
   <div>
     
-### Have used
+###  Have used
 <br>
   <div>
     <center>
