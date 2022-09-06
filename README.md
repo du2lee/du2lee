@@ -4,7 +4,7 @@
 
 <div align="center">
 <h3>🖐Thank you for visiting my repository!🙏</h3>
-<h4> My Notion URL : https://url.kr/l2xzq4 </h4>
+<h4> My Notion URL : https://han.gl/kKCxR </h4>
 
   I'm App📱 & Back-End 🖥 Developer.
 </div>
