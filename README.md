@@ -4,7 +4,7 @@
 
 <div align="center">
 <h3>🖐Thank you for visiting my repository!🙏</h3>
-<h4> My Notion URL : https://han.gl/kKCxR </h4>
+<h4> My Notion URL : https://dapper-gopher-fba.notion.site/Duhui-s-Profile-bfe124e0e1b54b399f4d74ddc22fc94d </h4>
 
   I'm App📱 & Back-End 🖥 Developer.
 </div>
