@@ -9,10 +9,6 @@
   I'm App📱 & Back-End 🖥 Developer.
 </div>
 
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dh151446](https://solved.ac/dh151446)
-
 ## 📜 Tech Stack
 
 ### 📝 Studying
@@ -60,5 +56,12 @@
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     <center>
   <div>
+<br>
+
+[![Top Langs](https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=du2lee&layout=compact&hide=html,css,scss,jupyter%20notebook&langs_count=6&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,codingStudy2,codingStudy,chaesmos-django,PS)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dh151446)](https://solved.ac/dh151446)
+<br>
 <br>
 
